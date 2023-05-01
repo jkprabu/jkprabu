@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋, I'm JK
 
-# 💫 About Me:
+## 💫 About Me:
 
 - 🔭 Math + CS student at UBC
 - 🤖 Interested in all things ML and Finance
