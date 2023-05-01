@@ -1,4 +1,4 @@
-# Hi there 👋, I'm JK
+# Hi there 👋, I'm Jeykiran(JK)
 
 ## 💫 About Me:
 
